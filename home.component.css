@@ -1,0 +1,35 @@
+.container {
+    padding: 0 20px; /* Add padding to both sides */
+    box-sizing: border-box; /* Include padding in the element's total width */
+    margin-top: 50px;
+}
+/* Custom CSS */
+.button-container {
+    text-align: center; /* Align buttons to center */
+    margin-top: 10px; /* Margin top to separate buttons from image */
+}
+
+.button-container input[type="button"] {
+    margin-right: 10px; /* Add space between buttons */
+}
+
+.profile {
+    width: 100%;
+    max-width: 100px; /* Adjust as needed */
+    height: auto;
+}
+
+/* Custom CSS */
+.user-details {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%; /* Ensure the container takes full height */
+    padding: 0 20px; /* Add padding to both sides */
+    box-sizing: border-box; /* Include padding in the element's total width */
+}
+.container1{
+    margin-left: 250px;
+    margin-top: 50px;
+}
+
