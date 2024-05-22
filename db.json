@@ -1,0 +1,53 @@
+{
+  "posts": [
+    {
+      "id": 0,
+      "firstname": "Sagar",
+      "lastname": "",
+      "age": "",
+      "state": "",
+      "country": "",
+      "address": "",
+      "hobby": "",
+      "profile": "",
+      "email": "",
+      "contact": ""
+    },
+    {
+      "id": 0,
+      "firstname": "",
+      "lastname": "",
+      "age": "",
+      "state": "",
+      "country": "",
+      "address": "",
+      "hobby": "",
+      "profile": "",
+      "email": "",
+      "contact": ""
+    },
+    {
+      "id": 0,
+      "firstname": "sagar",
+      "lastname": "",
+      "age": "",
+      "state": "",
+      "country": "",
+      "address": "",
+      "hobby": "",
+      "profile": "",
+      "email": "",
+      "contact": ""
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "some comments",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
