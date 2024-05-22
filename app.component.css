@@ -1,0 +1,16 @@
+/* Custom styles for the navigation bar */
+.navbar-nav .nav-item .nav-link {
+    font-size: 18px;
+    padding: 10px 20px;
+  }
+  
+  .navbar-nav .nav-item .nav-link:hover {
+    background-color: #f8f9fa;
+    border-radius: 5px;
+  }
+  
+  .navbar-brand {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
